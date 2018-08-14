@@ -7,6 +7,7 @@ void delay()
 
 	//int x=200000;
 	int x=195000;
+	//int x=3000000;
 	while (x)
 		x--;
 }
